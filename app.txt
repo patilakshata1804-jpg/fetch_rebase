@@ -1,1 +1,2 @@
 initial project code with A commit
+code added by remote developer with commit c
